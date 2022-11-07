@@ -1,0 +1,3 @@
+[submodule "les-petits-plats"]
+	path = les-petits-plats
+	url = https://github.com/mathurinchung/les-petits-plats.git
